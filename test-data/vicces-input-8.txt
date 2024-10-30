@@ -1,0 +1,4 @@
+# azt tesztelné, hogy hajó létrehozható-e invalid inputtal, és hogy ha nem, tudunk-e
+# nem létező hajóból lőni, de ez jelen pillanatban nem célja a tesztelésnek
+GT4500,9,8,7,6
+TORPEDO,SINGLE
